@@ -1,11 +1,11 @@
-title: Streamdata API Gallery - 
+title: Streamdata API Gallery - Go.USA.Gov
 description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
-url: go.usa.gov.streamdata.gallery
-tag: 
+url: go-usa-gov.streamdata.gallery
+tag: Go.USA.Gov
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-entities
-github_repo: go.usa.gov
+github_repo: go-usa-gov
 github_branch: master
 collections:
   listings:
